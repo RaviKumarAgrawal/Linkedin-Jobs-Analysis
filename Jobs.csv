@@ -1,0 +1,314 @@
+Job_Id,Company_Id,Location,Designation,Details_Id
+1001,2001,Bengaluru,Account Based Marketing Executive,3001
+1002,2002,Greater Delhi Area,Account Based Marketing Executive,3002
+1003,2003,Mumbai,Account Based Marketing Executive,3003
+1004,2004,Jaipur,Account internship,3004
+1005,2005,Lucknow,Account internship,3005
+1006,2006,Noida,Account internship,3006
+1007,2007,Delhi,Admission Tele Counselor,3007
+1008,2008,Chennai,Airport Ground staff,3008
+1009,2009,Delhi,Analyst,3009
+1010,2010,Hyderabad,Analyst,3010
+1011,2011,Hyderabad,API Developer,3011
+1012,2012,Navi Mumbai,Applications Engineer,3012
+1013,2013,Ludhiana,Area Operations Manager,3013
+1014,2014,Ranchi,Area Sales Manager-CA,3014
+1015,2015,Telangana,ARM-Liabilities & RM- Branch Banking,3015
+1016,2016,Gurgaon,Assistant Manager,3016
+1017,2017,Pune,Assistant manager,3017
+1018,2018,Bengaluru,Assistant Manager,3018
+1019,2019,Mumbai,Assistant Manager ,3019
+1020,2020,Hyderabad,Assistant Project Lead,3020
+1021,2021,Mumbai,Assisting Video Direction,3021
+1022,2022,Chennai,Associate,3022
+1023,2023,Greater Delhi Area,Associate,3023
+1024,2024,Mumbai,Associate,3024
+1025,2025,Bengaluru,Associate - FNO Trade support,3025
+1026,2026,Bengaluru,Associate Customer Care,3026
+1027,2027,Chennai,Associate- Global Market,3027
+1028,2028,Bengaluru,Associate Level 1 - DEC-Brokerage,3028
+1029,2029,Navi Mumbai,Associate Manager - Equity Research,3029
+1030,2030,Navi Mumbai,Associate Manager - Equity Research,3030
+1031,2031,Hyderabad,Associate Mgr-Data Analytics,3031
+1032,2032,Noida,Associate Tech Specialist,3032
+1033,2033,Mumbai,Associate_Operations,3033
+1034,2034,Mumbai,Associate_Service Desk,3034
+1035,2035,Chennai,AVP-Customer Experience,3035
+1036,2036,Delhi,AVP-Impairment,3036
+1037,2037,Bengaluru,Awareness Session Coordinator,3037
+1038,2038,Bengaluru,B2B Copywriter,3038
+1039,2039,Delhi,Back Office Executive,3039
+1040,2040,Delhi,Back Office Executive,3040
+1041,2041,Itanagar,Backend Developer,3041
+1042,2042,Indore,Backend Development,3042
+1043,2043,Mumbai,BD Manager,3043
+1044,2044,Mumbai,Brand Manager,3044
+1045,2045,Pune,Business Analyst,3045
+1046,2046,Pune,Business Analyst,3046
+1047,2047,Hyderabad,Business Analyst,3047
+1048,2048,Pune,Business Analyst,3048
+1049,2049,Indore,Business Analyst,3049
+1050,2050,Kolkata,Business Associate,3050
+1051,2051,Chennai,Business Development,3051
+1052,2052,Bengaluru,Business Development,3052
+1053,2053,Chandigarh,Business Development,3053
+1054,2054,Noida,Business Development,3054
+1055,2055,Noida,Business Development,3055
+1056,2056,Patna,Business Development,3056
+1057,2057,Jaipur,Business Development,3057
+1058,2058,Udaipur,Business Development,3058
+1059,2059,Indore,Business Development Executive,3059
+1060,2060,Pune,Business Development Representative,3060
+1061,2061,Hyderabad,C# developer,3061
+1062,2062,Gurgaon,Catalog Associate,3062
+1063,2063,Delhi,Catalog Operations,3063
+1064,2064,Bengaluru,Chemistry Marketing Operations,3064
+1065,2065,Bengaluru,Chief of Staff ,3065
+1066,2066,Mumbai,Client Servicing,3066
+1067,2067,Mumbai,Client Servicing Head,3067
+1068,2068,Bandipura,Clinical Coordinator,3068
+1069,2069,Bengaluru,Cloud Support Engineer,3069
+1070,2070,Bengaluru,Community Manager,3070
+1071,2071,Chennai,Company Secretary,3071
+1072,2072,Bengaluru,Consultant,3072
+1073,2073,Chennai,Content Creation  ,3073
+1074,2074,Jaipur,Content Creation  ,3074
+1075,2075,Bengaluru,Content Development,3075
+1076,2076,Gurgaon,Content Writing,3076
+1077,2077,Delhi,Content Writing,3077
+1078,2078,Delhi,Content Writing,3078
+1079,2079,Gurgaon,Content Writing,3079
+1080,2080,Gurgaon,Content Writing,3080
+1081,2081,Hyderabad,Content Writing,3081
+1082,2082,Mumbai,Content Writing,3082
+1083,2083,South Asia,Copywriter,3083
+1084,2084,Mumbai,Copywriter,3084
+1085,2085,Greater Kolkata Area,Copywriter,3085
+1086,2086,Noida,Copywriter,3086
+1087,2087,Delhi,Copywriter,3087
+1088,2088,Ahmedabad,Corporate Sales,3088
+1089,2089,Delhi,Credit Analyst,3089
+1090,2090,Greater Kolkata Area,Cricket Systems Operator,3090
+1091,2091,Bengaluru,Customer Service Associate,3091
+1092,2092,Pune,Cyber Security,3092
+1093,2093,Pune,Data Engineer,3093
+1094,2094,Pune,Data Entry,3094
+1095,2095,Delhi,Data Entry Operator,3095
+1096,2096,Delhi,Data Entry Work,3096
+1097,2097,Gurugram,Data Specialist - Remote,3097
+1098,2098,Mumbai,Database Building/Managemen,3098
+1099,2099,Bengaluru,Database Engineer,3099
+1100,2100,Warangal,Debt Manager,3100
+1101,2101,Durgapur,Delivery officer,3101
+1102,2102,Mumbai,Desktop Support Administrator,3102
+1103,2103,Pune,Developer,3103
+1104,2104,Pune,Developer,3104
+1105,2105,Indore,Digital Marketing,3105
+1106,2106,Gurugram,Digital Marketing,3106
+1107,2107,Bengaluru,Digital Marketing,3107
+1108,2108,Delhi,Digital Marketing,3108
+1109,2109,Navi Mumbai,Digital Marketing,3109
+1110,2110,Navi Mumbai,Digital Marketing,3110
+1111,2111,Noida,Digital Marketing,3111
+1112,2112,Noida,Digital Marketing,3112
+1113,2113,Noida,Digital Marketing,3113
+1114,2114,Pune,Digital Marketing,3114
+1115,2115,Hyderabad,DIGITAL MARKETING EXECUTIVE,3115
+1116,2116,Chennai,Digital Marketing Specialist,3116
+1117,2117,Delhi,Digital Media Marketing,3117
+1118,2118,Lephripada,DIRECT SUPPORT PROFESSIONAL,3118
+1119,2119,Hyderabad,Director,3119
+1120,2120,Delhi,Document verification,3120
+1121,2121,Hyderabad,Dotnet Consultant,3121
+1122,2122,Kolkata,E Commerce Executive,3122
+1123,2123,Delhi,Ecommerce Management,3123
+1124,2124,Thrissur,Embedded Systems,3124
+1125,2125,Bengaluru,Engg. RMS,3125
+1126,2126,Vellore,English Trainer,3126
+1127,2127,Pune,Executive,3127
+1128,2128,Chennai,Executive,3128
+1129,2129,Chennai,Executive,3129
+1130,2130,Delhi,Facebook Ads,3130
+1131,2131,Noida,Fashion Consultant,3131
+1132,2132,Nagpur,Finance Internship,3132
+1133,2133,Delhi,Financial Analysis,3133
+1134,2134,Delhi,Financial Data Analyst,3134
+1135,2135,Pune,Financial Research Analyst,3135
+1136,2136,Pattambi,FINANCIAL SERVICE CONSULTANT,3136
+1137,2137,Bengaluru,Flight management Development,3137
+1138,2138,Delhi,Fraud Analyst,3138
+1139,2139,Chennai,Fraud Analyst,3139
+1140,2140,Chennai,Fraud Analyst,3140
+1141,2141,Chennai,Fraud Analyst,3141
+1142,2142,Greater Chennai Area,Freelance Job,3142
+1143,2143,Chennai,Front Desk Executive,3143
+1144,2144,Jaipur,Front End Development,3144
+1145,2145,Pune,Functional SME,3145
+1146,2146,Mumbai,General Manager ,3146
+1147,2147,Delhi,Graphic Design,3147
+1148,2148,Bengaluru,Graphic Design,3148
+1149,2149,Chennai,Graphic Design,3149
+1150,2150,Delhi,Graphic Design,3150
+1151,2151,Jaipur,Graphic Design,3151
+1152,2152,Pune,Graphic Design,3152
+1153,2153,Pune,Graphic Design,3153
+1154,2154,Bengaluru,Growth  associate,3154
+1155,2155,Gurugram,GSA - Housekeeping,3155
+1156,2156,Kochi,Guest Relations & Ticketing jobs,3156
+1157,2157,Dharmsala,Healthcare Manager,3157
+1158,2158,Gurgaon,Hiring Website Manager_Reputed Retail Industry_Gurgaon,3158
+1159,2159,Jaipur,Hospital Business Manager,3159
+1160,2160,Coimbatore,housekeeping staff,3160
+1161,2161,Rajkot,HR Recruiter,3161
+1162,2162,Bengaluru,Human Resources (HR) ,3162
+1163,2163,Chennai,Human Resources (HR) ,3163
+1164,2164,Gurgaon,Human Resources (HR) ,3164
+1165,2165,Gurgaon,Human Resources (HR) ,3165
+1166,2166,Hyderabad,Human Resources (HR) ,3166
+1167,2167,Indore,Human Resources (HR) ,3167
+1168,2168,Noida,Human Resources (HR) ,3168
+1169,2169,Ahmedabad,Human Resources (HR) ,3169
+1170,2170,Chennai,Ideas2it - Blockchain Developer ,3170
+1171,2171,Pune,Incident Manager,3171
+1172,2172,Ahmedabad,IndiaNi-Business Analyst,3172
+1173,2173,Mumbai,Influencer Marketing ,3173
+1174,2174,Bengaluru,Information Technology Operations Analyst,3174
+1175,2175,Gurgaon,Inside Sales,3175
+1176,2176,Noida,Integrated Digital Marketing/Email Marketing,3176
+1177,2177,Bengaluru,International Business Development,3177
+1178,2178,Mumbai,Key Account Manager,3178
+1179,2179,Mumbai,Key Account Manager,3179
+1180,2180,Delhi,Law/Legal ,3180
+1181,2181,Mumbai,Law/Legal ,3181
+1182,2182,Navi Mumbai,Lead - Credit Research,3182
+1183,2183,Pune,Lead Business Analyst ,3183
+1184,2184,Hyderabad,Lead Engineer,3184
+1185,2185,Hyderabad,Lead-Data Analytics,3185
+1186,2186,Hyderabad,Lead-New Hire Training,3186
+1187,2187,Bengaluru,LinkedIn Marketing ,3187
+1188,2188,Indore,Management Trainee,3188
+1189,2189,Gurgaon,Management Trainee ,3189
+1190,2190,Mumbai,Manager Digital Marketing,3190
+1191,2191,Mumbai,Manager-Bussiness Analytics,3191
+1192,2192,Chennai,MANAGING PARTNER ,3192
+1193,2193,Mumbai,Market Research,3193
+1194,2194,Noida,Marketing ,3194
+1195,2195,Chennai,Marketing & Client Relationship Management,3195
+1196,2196,Greater Kolkata Area,Marketing And Business Development ,3196
+1197,2197,Pune,Marketing Executive,3197
+1198,2198,Mumbai,Marketing Manager,3198
+1199,2199,Jaipur,Marketing Manager,3199
+1200,2200,Maharashtra,Marketing Manager,3200
+1201,2201,Gurgaon,Media & public Relations,3201
+1202,2202,Karaikal,Mediacal Coding Jobs,3202
+1203,2203,Greater Kolkata Area,Medical Representative,3203
+1204,2204,Greater Kolkata Area,Merchandiser,3204
+1205,2205,Mumbai,Microcontrollers ,3205
+1206,2206,Mumbai,NET & Oracle Developer,3206
+1207,2207,Mumbai,NET & SQL Developer,3207
+1208,2208,Pune,NFT Analyst,3208
+1209,2209,Gurgaon,Operations ,3209
+1210,2210,Mumbai,Operations Executive,3210
+1211,2211,Delhi,Operations Internship in Delhi at INGLU,3211
+1212,2212,Delhi,"Operations Internship in Delhi, Noida at Buddy4Study",3212
+1213,2213,Mumbai,Operations Internship in Mumbai at Janaswamy Associates,3213
+1214,2214,Mumbai,Operations Internship in Mumbai at Nextyn,3214
+1215,2215,Gurgaon,Operations Support,3215
+1216,2216,Noida,Opkey - UI Developer - HTML/CSS,3216
+1217,2217,Pune,Order Management,3217
+1218,2218,Delhi,Performance Marketing Assistant,3218
+1219,2219,Hyderabad,Phone Banking Officer,3219
+1220,2220,Delhi,Photography,3220
+1221,2221,Indore,PHP Development,3221
+1222,2222,Bengaluru,Power BI ,3222
+1223,2223,Bengaluru,Product Design,3223
+1224,2224,Mumbai,Product Marketing,3224
+1225,2225,Mumbai,Professional-Research Business Research,3225
+1226,2226,Mumbai,Prof-Research Investment Banking,3226
+1227,2227,Chennai,Program manager,3227
+1228,2228,Mumbai,Program Manager ,3228
+1229,2229,Bengaluru,Project Analyst,3229
+1230,2230,Pune,Project Manager,3230
+1231,2231,Gurgaon,Project Manager,3231
+1232,2232,Hyderabad,Project Manager ,3232
+1233,2233,Bengaluru,Project Manager ,3233
+1234,2234,Mumbai,Psychology ,3234
+1235,2235,Jamnagar,Public Health Specialist,3235
+1236,2236,Pune,Python  Developer,3236
+1237,2237,Indore,Quality Analyst,3237
+1238,2238,Mumbai,Regional Business Head,3238
+1239,2239,Amaravati,Regional Coordinator,3239
+1240,2240,Delhi,Relationship Manager,3240
+1241,2241,Tiruvalla,Relationship Manager,3241
+1242,2242,Mumbai,Relationship Manager ,3242
+1243,2243,Indore,Research Analyst,3243
+1244,2244,Pune,Research Associate ,3244
+1245,2245,New Delhi,Rewards Specialist,3245
+1246,2246,Chennai,RPA Developer,3246
+1247,2247,Chennai,RPA Developer,3247
+1248,2248,Chennai,RPA Developer,3248
+1249,2249,Chennai,RPA Developer,3249
+1250,2250,Uttarakhand,Rubico IT - Cloud Infrastructure Administrator,3250
+1251,2251,Dehradun,Rubico IT - Wordpress Developer - Web Applications,3251
+1252,2252,Mumbai,Sales And  Marketing ,3252
+1253,2253,Navi Mumbai,Sales And Marketing,3253
+1254,2254,Pune,SAM8 Business Analyst,3254
+1255,2255,Chennai,SDE,3255
+1256,2256,Mumbai,SDR Manager ,3256
+1257,2257,Chandigarh,Search Engine Optimization ,3257
+1258,2258,Delhi,Search Engine Optimization ,3258
+1259,2259,Noida,Search Engine Optimization ,3259
+1260,2260,Pune,Search Engine Optimization ,3260
+1261,2261,Pune,Security Engineer,3261
+1262,2262,Pune,Security Engineer,3262
+1263,2263,Mumbai,Security Services,3263
+1264,2264,Patna,Senior  Manager,3264
+1265,2265,Chennai,Senior Analyst,3265
+1266,2266,Hyderabad,Senior API Developer,3266
+1267,2267,Mumbai,Senior Executive ,3267
+1268,2268,Odisha,Senior Executive ,3268
+1269,2269,Navi Mumbai,SEO Executive,3269
+1270,2270,Shaikpet,SEO Executive,3270
+1271,2271,Ahmedabad,SEO Executive,3271
+1272,2272,Sahibzada Ajit Singh Nagar,SEO Fresher,3272
+1273,2273,Greater Kolkata Area,SEO Internship ,3273
+1274,2274,Indore,SEO Specialist,3274
+1275,2275,Mumbai,Social  Media Content ,3275
+1276,2276,Mumbai,Social  Media internship,3276
+1277,2277,Gurgaon,Social  Media internship,3277
+1278,2278,Ahmedabad,Social  Media internship,3278
+1279,2279,Bengaluru,Social  Media internship,3279
+1280,2280,Gurgaon,Social  Media internship,3280
+1281,2281,Gurgaon,Social  Media internship,3281
+1282,2282,Mumbai,Social  Media internship,3282
+1283,2283,Pune,Social  Media marketing,3283
+1284,2284,Mumbai,Social Media Marketing ,3284
+1285,2285,Bengaluru,Software Engineer Development ,3285
+1286,2286,Bengaluru,Software Engineer Development or Testing,3286
+1287,2287,Bengaluru,Sr Associate Software Engineer,3287
+1288,2288,Uttar Pradesh,Sr Engi mid-senior level,3288
+1289,2289,Mumbai,Sr. Ass mid-senior level,3289
+1290,2290,Bengaluru,Sr. Executive - Customer Relations,3290
+1291,2291,Mumbai,Sr. HR  associate,3291
+1292,2292,Chennai,Strategic Account Manager,3292
+1293,2293,Pune,Strategic Intelligence Analyst,3293
+1294,2294,Bengaluru,Student internship,3294
+1295,2295,Indore,Tech Development ,3295
+1296,2296,Bengaluru,Technical Manage,3296
+1297,2297,Jamnagar,Technical Officer ,3297
+1298,2298,Mumbai,Technology Program Manager,3298
+1299,2299,Delhi,Telecallers,3299
+1300,2300,Delhi,Telecalling Internship ,3300
+1301,2301,Delhi,TELESALES REPRESENTATIVES,3301
+1302,2302,Navi Mumbai,Transaction Monitoring specialist ,3302
+1303,2303,Mumbai,Treasury Markets and Investments,3303
+1304,2304,Bengaluru,UI Engineer ,3304
+1305,2305,Gurgaon,Video And Contant editing ,3305
+1306,2306,Delhi,Video Making,3306
+1307,2307,Delhi,Video Making,3307
+1308,2308,Mumbai,Web Dev internship,3308
+1309,2309,Noida,Web Dev internship,3309
+1310,2310,Pune,Web Dev internship,3310
+1311,2311,Surat,Web Dev internship,3311
+1312,2312,Delhi,Wipro contact trainers,3312
+1313,2313,Chennai,Workforce Management Specialist,3313
