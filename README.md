@@ -1,5 +1,5 @@
 #  <img src=https://user-images.githubusercontent.com/55955478/235878802-1c423764-f355-47b0-b926-f9380334defd.png height=48 width=48> LINKEDIN JOBS ANALYSIS
-<img src=https://user-images.githubusercontent.com/55955478/235868102-52317ba3-5e46-44cd-bc4c-7603f059b8af.png height=300 width=1200>
+<img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/28c73e70-72df-42f7-b4b7-b91718a77109 height=300 width=1200>
 <br> 
 This repository presents an end-to-end analysis of LinkedIn's professional networking platform's Jobs section. The project aims to extract over 500 job details from LinkedIn's website using the Python library, Selenium, and organize the information into specific formats by creating three tables. Additionally, the project involved data cleaning and exploratory data analysis using Pandas and Numpy libraries. MySQL and MS-Excel were utilized to derive insights from the dataset. Power BI was used to visualize the results. Finally, a web page was created to present relevant job information based on the skills listed in the dataset. The page was hosted on the cloud for wider access.
 <br>
