@@ -8,18 +8,13 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
 |Files | Description |
 |-----|--------|
-|Data_cleaning_ml (darr).ipynb |This file all the data cleaning steps involved in our project |
-|EDA_REPORT (JOB_ANALYTICS_LINKEDIN).ipynb |This file contains Exploratory Data Analysis report |
-|Final_scrapper_ML (darr).ipynb |This is our Data Scrapping file used to scrape linkedin jobs section 
-|ML_final_data(Darr).csv| This file contains our final sanitzed dataset |
-|csvjson.json|This file is just a json of the above csv |
-|dashboard.html|This page contains code for our dashboard button |
-|index.html |This file contains our main web-page's code |
-|logic.js |This file contains logic use to show job details based on different skills |
-|searchPage.html| This file contain code for our search bar(to search jobs based on skills) |
-|linkedin_mysql_script.sql |This script contains insights derived in mysql-workbench |
-|mlrahul...lll.pbix |This is our data-visualization file containg Dashboard in PowerBi |
-
+|Comapny.csv|The file contain details of company|
+|DASHBOARD_final.xlsx|The file contains of Deshboard|
+|Details.csv|The file contains details of employee|
+|Jobs.csv|The file contains jobs details|
+|Linkedin Job Analysis Script.sql|This script contains insights derived in mysql-workbench|
+|Linkedin_Project.ipynb|This is our Data Scrapping file used to scrape linkedin jobs section|
+|PPT.pdf|This is final PPT of insights|
 <br>
 
 ## <img src=https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif height=48 width=48> Tools & Technology Used:
