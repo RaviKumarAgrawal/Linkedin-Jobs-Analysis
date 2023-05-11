@@ -46,19 +46,20 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
 3. Took help of different SQL clauses like group by, order by, having etc in order to manupalate the data and get the insights out.
 
-4. Created a web-page which shows different jobs on the basis of different skills. 
-  
-  ![image](https://user-images.githubusercontent.com/55955478/235896881-e20faec3-33f1-4e5d-86d4-fbaeda90d573.png)
-
 
 
 <br>
   
 ## <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif height=48 width=48> Results/Insights:
   
-<p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235893509-09e24fc5-ddde-424b-b7bc-ad6c606b856c.png height=400 width=1000></a></p>
-<p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235894505-1d09f952-dfc7-4625-a6c0-fb58e79ff671.png height=400 width=1000></a></p>
-<p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235895274-bde759d5-7990-47af-838f-dc1fd8612974.png height=400 width=1000></a></p>
+<p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/5a5ff71e-b545-4d65-aba8-f03df0482cf7
+ height=400 width=1000></a></p>
+<p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/1cd4907c-9135-41b3-a3e4-aae7d9806534
+ height=400 width=1000></a></p>
+<p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/aee67ec7-f1a6-477c-b6e7-23a3d838551a
+ width=1000></a></p>
+<p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/f58d0170-98a6-4d86-b6db-dd13386aa024
+ height=400 width=1000></a></p>
  
 <br>
   
@@ -78,6 +79,3 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
   6. About half of the total openings are in IT industry
   7. AI is most required skills.
 <br>
-
-## Check out live Demo of the Project: [Linkedin_Jobs_analysis](https://symphonious-chebakia-974445.netlify.app/index.html)
-  
