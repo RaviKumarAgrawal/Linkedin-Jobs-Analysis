@@ -57,16 +57,16 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/1cd4907c-9135-41b3-a3e4-aae7d9806534
  height=400 width=1000></a></p>
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/aee67ec7-f1a6-477c-b6e7-23a3d838551a
- width=1000></a></p>
+ height=400 width=1000></a></p>
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/f58d0170-98a6-4d86-b6db-dd13386aa024
  height=400 width=1000></a></p>
  
 <br>
   
 ## <img src=https://cdn1.vectorstock.com/i/1000x1000/45/70/dashboard-icon-vector-22894570.jpg height=50 width=50> :
-  
-![image](https://user-images.githubusercontent.com/55955478/235902078-3608a456-0278-4b24-88b1-125cf11be3f2.png)
-  
+
+![dashboard](https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/99241074-749a-45dc-8b1d-87c635fdb8c7)
+
 <br>
   
 ## <img src=https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif height=50 width=50> Conclusions:
