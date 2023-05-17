@@ -52,7 +52,7 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
   
 ## <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif height=48 width=48> Results/Insights:
   
-<p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/5a5ff71e-b545-4d65-aba8-f03df0482cf7
+<p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/3bcd8d47-d6d9-4228-b94c-da8046b142ed
  height=400 width=1000></a></p>
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/1cd4907c-9135-41b3-a3e4-aae7d9806534
  height=400 width=1000></a></p>
