@@ -65,7 +65,7 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
   
 ## <img src=https://cdn1.vectorstock.com/i/1000x1000/45/70/dashboard-icon-vector-22894570.jpg height=50 width=50> :
 
-![dashboard](https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/99241074-749a-45dc-8b1d-87c635fdb8c7)
+<img width="912" alt="link_desh" src="https://github.com/RaviKumarAgrawal/Linkedin-Jobs-Analysis/assets/128930068/360de1fd-9570-4dce-8500-b072893594b0">
 
 <br>
   
