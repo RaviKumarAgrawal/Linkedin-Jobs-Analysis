@@ -25,26 +25,26 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif height=48 width=48> Methodology:
 
-  1. Scraped Linkedin jobs section using python library Selenium and extracted following attributes.
-  <div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src=https://user-images.githubusercontent.com/55955478/235886598-f8657895-553a-4fd4-b40b-2dd425ee8314.png height=200 width=500>
-      	    </td>
-            <td style="padding:10px">
-            	 <img src=https://user-images.githubusercontent.com/55955478/235887725-1aa07ea7-0d62-4c90-bcb2-3f084ee69abb.png height=200 width=500>
-        </tr>
-      <tr> 
-        <td style="padding:10px">
-          <img src= https://user-images.githubusercontent.com/55955478/235890070-6de42529-a5c0-4770-84aa-3703175e9530.png height=200 width=500>
-        </td>
-      </tr>
-    </table>
+  1. Implemented web scraping on the LinkedIn jobs section using the Python library Selenium. Leveraged its capabilities to extract and retrieve the following attributes from the job listings:
 
- 2. Did the data cleaning and EDA part with the help of Pandas and imported the CSVs into MySQL for furthur analysis.
 
-3. Took help of different SQL clauses like group by, order by, having etc in order to manupalate the data and get the insights out.
+| Attribute | Feature's Meaning |
+|-----------|-----------|
+|`location` | The location of the job |
+|`designation`| The designation of the job |
+|`name`| Name of the company |
+|`industry` | Industry in which the company operates |
+|`employees_count`| Count of employees |
+|`linkedin_followers` | Number of followers on linkedin |
+|`involvement` | the nature of involvement in the job, for instance: Full-time, part-time |
+|`level` | The seniority level like Mid-Senior level |
+|`total_applicants` | total number of applicants |
+		
+
+  2. Utilized Pandas to perform data cleaning and exploratory data analysis (EDA), and seamlessly imported the CSV files into MySQL for comprehensive analysis and further insights extraction.
+
+3. Skillfully employed various SQL clauses such as GROUP BY, ORDER BY, HAVING, and more to manipulate the data, enabling in-depth analysis and extraction of valuable insights.
+
 
 
 
